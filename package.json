@@ -1,0 +1,33 @@
+{
+  "name": "horacio-ioconic",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@types/uuid": "^9.0.3",
+    "expo": "~49.0.8",
+    "expo-dev-client": "~2.4.8",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "react-native-design-system": "^2.0.5",
+    "react-native-draggable-flatlist": "^4.0.1",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-get-random-values": "^1.9.0",
+    "react-native-reanimated": "~3.3.0",
+    "uuid": "^9.0.0",
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.2.14",
+    "typescript": "^5.1.3"
+  },
+  "private": true
+}
